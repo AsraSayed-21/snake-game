@@ -32,6 +32,6 @@ gameover.wav — played on game over
 
 If you don’t have these, you can download free .wav files from freesound.org or pixabay.com/sound-effects.
 
-#👩‍💻 Author
+👩‍💻 
 Made with 💙 by Asra Sayed
 
